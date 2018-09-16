@@ -1,0 +1,39 @@
+_repo: Someone-to-Watch-Over-Me_51844
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Francis, Dick
+    alias: Francis, Richard D.
+    gutenberg_agent_id: '33940'
+    url: http://www.gutenberg.org/2009/agents/33940
+creator:
+  authors:
+  - agent_name: Gold, H. L. (Horace Leonard)
+    alias: Gold, Horace Leonard
+    birthdate: 1914
+    deathdate: 1996
+    gutenberg_agent_id: '35538'
+    url: http://www.gutenberg.org/2009/agents/35538
+    wikipedia: http://en.wikipedia.org/wiki/H._L._Gold
+  - agent_name: Gale, Floyd C.
+    alias: Gold, Floyd Clifford
+    birthdate: 1918
+    deathdate: 1997
+    gutenberg_agent_id: '46184'
+    url: http://www.gutenberg.org/2009/agents/46184
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: Someone to Watch Over Me
+url: http://www.gutenberg.org/ebooks/51844
