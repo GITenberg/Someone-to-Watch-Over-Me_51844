@@ -6,6 +6,9 @@ contributor:
     alias: Francis, Richard D.
     gutenberg_agent_id: '33940'
     url: http://www.gutenberg.org/2009/agents/33940
+covers:
+- cover_type: archival
+  image_path: 51844-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Gold, H. L. (Horace Leonard)
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '46184'
     url: http://www.gutenberg.org/2009/agents/46184
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51844#Someone-to-Watch-Over-Me
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-04-23'
 gutenberg_type: Text
